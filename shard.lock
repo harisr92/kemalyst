@@ -6,11 +6,15 @@ shards:
 
   kilt:
     github: jeromegn/kilt
-    version: 0.3.3
+    version: 0.4.0
 
   pool:
     github: ysbaddaden/pool
     version: 0.2.3
+
+  quartz_mailer:
+    github: amberframework/quartz-mailer
+    commit: dd0670d1a9e9bb764360e49f4482287fe147ab5e
 
   radix:
     github: luislavena/radix
@@ -26,9 +30,9 @@ shards:
 
   slang:
     github: jeromegn/slang
-    commit: 3b657c48791d72c109fa55ce6431d3042efe2f9c
+    commit: 2c1fa6cc364e825e558ccab0462224c1ab9b9409
 
   smtp:
     github: raydf/smtp.cr
-    commit: 1301f244fd1e251244b0a9fb7f8bc817da9c8854
+    version: 0.1
 

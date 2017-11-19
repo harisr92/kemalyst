@@ -9,7 +9,7 @@ license: MIT
 dependencies:
   kilt:
     github: jeromegn/kilt
-    version: ~> 0.3.3
+    version: ~> 0.4.0
 
   radix:
     github: luislavena/radix
@@ -19,8 +19,8 @@ dependencies:
     github: jeromegn/slang
     branch: master
 
-  quartz-mailer:
-    github: amber-crystal/quartz-mailer
+  quartz_mailer:
+    github: amberframework/quartz-mailer
     branch: master
 
   sidekiq:
